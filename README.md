@@ -1,4 +1,4 @@
 # mini-projects
 
-#Calculator using html,css,js
+#Calculator using html,css
 https://101calculator.netlify.app/
